@@ -28,7 +28,7 @@ body {
 	border-style: none;
 	margin: 0 auto;
 	margin-top: 32px;
-	width: 90%;
+	width: 100%;
 }
 
 #image {
@@ -70,7 +70,7 @@ button.accordion {
 	text-align: left;
 	text-indent: 64px;
 	transition: 1.0s;
-	width: 90%;
+	width: 100%;
 	word-spacing: 3px;
 	cursor: pointer;
 }
