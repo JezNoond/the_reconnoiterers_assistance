@@ -46,7 +46,7 @@ img {
 #dividers {
 	background-color:#FFFFFF;
 	color: #000000;
-	font-family: courier;
+	font-family: Lucida Console;
 	font-size: 16px;
 	font-weight: bold;
 	letter-spacing: 3px;
@@ -60,7 +60,7 @@ button.accordion {
 	background-color:#FFFFFF;
 	border: none;
 	color: #000000;
-	font-family: courier;
+	font-family: Lucida Console;
 	font-size: 16px;
 	font-weight: normal;
 	letter-spacing: 2px;
@@ -78,7 +78,7 @@ button.accordion {
 button.accordion.active {
 	background-color: #FFFFFF;
 	color: #000000;
-	font-weight: regular;
+	font-weight: normal;
 }
 
 button.accordion:hover {
