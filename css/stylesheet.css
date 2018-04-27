@@ -46,7 +46,7 @@ img {
 #dividers {
 	background-color:#FFFFFF;
 	color: #000000;
-	font-family: Lucida Console;
+	font-family: Courier New;
 	font-size: 16px;
 	font-weight: bold;
 	letter-spacing: 3px;
@@ -60,7 +60,7 @@ button.accordion {
 	background-color:#FFFFFF;
 	border: none;
 	color: #000000;
-	font-family: Lucida Console;
+	font-family: Courier New;
 	font-size: 16px;
 	font-weight: normal;
 	letter-spacing: 2px;
