@@ -46,8 +46,8 @@ img {
 #dividers {
 	background-color:#FFFFFF;
 	color: #666666;
-	font-family: "Tahoma";
-	font-size: 16px;
+	font-family: "Lucida Console";
+	font-size: 14px;
 	font-weight: normal;
 	letter-spacing: 3px;
 	line-height: 1;
@@ -60,8 +60,8 @@ button.accordion {
 	background-color:#FFFFFF;
 	border: none;
 	color: #666666;
-	font-family: "Tahoma";
-	font-size: 16px;
+	font-family: "Lucida Console";
+	font-size: 14px;
 	font-weight: normal;
 	letter-spacing: 0.8px;
 	line-height: 2.0;
