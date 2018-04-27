@@ -45,39 +45,38 @@ img {
 
 #dividers {
 	background-color:#FFFFFF;
-	color: #000000;
-	font-family: Courier New;
+	color: #666666;
+	font-family: Roboto Mono;
 	font-size: 16px;
-	font-weight: bold;
+	font-weight: normal;
 	letter-spacing: 3px;
-	line-height: 0;
+	line-height: 1;
 	text-align: left;
 	text-indent: 64px;
-	word-spacing: 4px;
+	word-spacing: 1px;
 }
 
 button.accordion {
 	background-color:#FFFFFF;
 	border: none;
-	color: #000000;
-	font-family: Courier New;
+	color: #666666;
+	font-family: Roboto Mono;
 	font-size: 16px;
 	font-weight: normal;
-	letter-spacing: 2px;
-	line-height: 3.0;
+	letter-spacing: 0.8px;
+	line-height: 2.0;
 	outline: none;
 	padding: 0px 0px 0px 0px;
 	text-align: left;
 	text-indent: 64px;
-	transition: 1.0s;
 	width: 100%;
-	word-spacing: 3px;
+	word-spacing: 1px;
 	cursor: pointer;
 }
 
 button.accordion.active {
 	background-color: #FFFFFF;
-	color: #000000;
+	color: #666666;
 	font-weight: normal;
 }
 
