@@ -46,7 +46,7 @@ img {
 #dividers {
 	background-color:#FFFFFF;
 	color: #666666;
-	font-family: "Roboto Mono";
+	font-family: "Tahoma";
 	font-size: 16px;
 	font-weight: normal;
 	letter-spacing: 3px;
@@ -60,7 +60,7 @@ button.accordion {
 	background-color:#FFFFFF;
 	border: none;
 	color: #666666;
-	font-family: "Roboto Mono";
+	font-family: "Tahoma";
 	font-size: 16px;
 	font-weight: normal;
 	letter-spacing: 0.8px;
