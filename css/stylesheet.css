@@ -1,0 +1,117 @@
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+body {
+	background-color: #FFFFFF;
+}
+
+#wrapper {
+	background-color:#FFFFFF;
+	margin: auto;
+	border-style: none;
+	width: 100%;
+}
+
+#image {
+	background-color:#FFFFFF;
+	padding: 0px 0px 0px 0px;
+	text-align: justify;
+}
+
+img {
+	border-color: #999999;
+	border-style: solid;
+	border-width: 1px;
+}
+
+#info {
+	background-color:#000000;
+	color: #FFFFFF;
+	font-family: Lucida Console;
+	font-size: 14px;
+	font-weight: regular;
+	letter-spacing: 3px;
+	line-height: 2;
+	text-align: left;
+	text-indent: 128px;
+	word-spacing: 1px;
+}
+
+#text {
+	background-color:#FFFFFF;
+	padding: 0px 0px 0px 0px;
+	color: #000000;
+	font-family: Lucida Console;
+	font-size: 14px;
+	font-weight: regular;
+	letter-spacing: 0.8px;
+	line-height: 1.6;
+	text-align: justify;
+	text-indent: 0px;
+	word-spacing: 1px;
+}
+
+button.accordion {
+	background-color:#FFFFFF;
+	padding: 3px 0px 0px 0px;
+	border: none;
+	color: #666666;
+	font-family: Lucida Console;
+	font-size: 14px;
+	font-weight: regular;
+	letter-spacing: 0.8px;
+	line-height: 2.0;
+	outline: none;
+	text-align: left;
+	text-indent: 128px;
+	width: 100%;
+	word-spacing: 1px;
+	cursor: pointer;
+}
+
+button.accordion.active {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-weight: regular;
+}
+
+button.accordion:hover {
+    background-color: #FFFFFF;
+}
+
+div.section {
+	background-color:#FFFFFF;
+	padding: 0px 0px 0px 0px;
+}
+
+div.panel {
+	background-color: #FFFFFF;
+	max-height: 0;
+	padding: 0px 128px 0px 128px;
+	transition: 2.0s ease-in-out;
+	opacity: 1.0;
+	overflow: hidden;
+	width: 1024px;
+}
+
+div.panel.show {
+	max-height: 1080px;
+	opacity: 1;
+}
